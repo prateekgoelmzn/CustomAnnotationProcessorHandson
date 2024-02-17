@@ -42,3 +42,4 @@ secrets.yml
 .idea/
 *.db
 *.sqlite
+target/
